@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi Welcome! 👋
 
-<!--
-**MerpLab/MerpLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Maxi and I'm a web developer. 
+I enjoy learning, participating in communities and trying new things.
 
-Here are some ideas to get you started:
+I currently work with:
+* Java ☕ - Spring 🍃
+* Angular - Typescript / Javascript
+* HTML - CSS
+* Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With entertainment of adding new skills 🚀
+
+
+
+ 📫 How to reach me: 
+ * [Twitter](https://twitter.com/MerpLab)
+ 
+ 
